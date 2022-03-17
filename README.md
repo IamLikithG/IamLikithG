@@ -17,4 +17,4 @@
 </p>
 
 ## 🏆 GitHub Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=myselflikithg&" alt="myselflikithg" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamlikithg&" alt="iamlikithg" /></p>
