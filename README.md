@@ -1,17 +1,46 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm LIKITH G</h1>
-<h3 align="center">I'm Passionate about Network Security, Robotics and Cybernetics</h3>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:FF6A1A&height=200&section=header&text=Likith%20G&fontSize=64&fontColor=F5F1E8&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descSize=20&descAlignY=58" width="100%" alt="Likith G — Full-Stack Software Engineer" />
 
-## 👨‍💻 Languages 
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <a href=""><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a> </p>
+<a href="https://likith-g-portfolio.vercel.app/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF6A1A&center=true&vCenter=true&width=620&lines=Full-stack+engineer+%E2%80%94+.NET+%2B+React;Building+event-driven+systems+with+Kafka;Shipping+on+AWS+and+Azure;Turning+messy+workflows+into+clean+products" alt="Typing intro" />
+</a>
 
-## 🔧 Tools
-<p align="left"><a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a></p>
-
-## ☎️ Connect with me
-<p align="left">
-<a href = "mailto:likithsujatha2001@hotmail.com?subject=From your Github Profile" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href = "https://www.linkedin.com/in/likith-g-313b18225/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://www.instagram.com/likith._.g/" ><img src="https://img.shields.io/badge/instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href = "https://twitter.com/myselflikithg" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a>
+<p>
+  <a href="https://likith-g-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF6A1A" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/likith-g-313b18225/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:likithganesh2001@gmail.com?subject=Hello%20from%20GitHub"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://likith-g-portfolio.vercel.app/LikithG_Resume.pdf"><img src="https://img.shields.io/badge/Resume-FF6A1A?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+  <a href="https://x.com/MyselfLikithG"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/likith._.g/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
+
+</div>
+
+## 👋 About me
+
+- 🛠️ **Full-stack software engineer** building scalable, **event-driven systems** for high-volume workloads with .NET, Kafka and PostgreSQL.
+- ☁️ Currently going deeper into **AWS cloud infrastructure** and **automation testing**.
+- 🏗️ Experienced in **multi-tenant SaaS** on React micro-frontends, **SSO** with Azure B2C, and breaking monoliths into **microservices**.
+- 🤖 On the side I like applied **machine learning**: crop-disease detection, skin-lesion detection and loan prediction.
+- 📫 The fastest way to reach me is [email](mailto:likithganesh2001@gmail.com) or [LinkedIn](https://www.linkedin.com/in/likith-g-313b18225/).
+
+## 🧰 Tech stack
+
+| Area | Tools |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,ts,js,tailwind,html,css&perline=9" alt="React, Next.js, Angular, Vue, TypeScript, JavaScript, Tailwind, HTML, CSS" height="40" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=cs,dotnet,java,python,graphql&perline=9" alt="C#, .NET, Java, Python, GraphQL" height="40" /> |
+| **Data & messaging** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq&perline=9" alt="PostgreSQL, MySQL, MongoDB, Redis, Kafka, RabbitMQ" height="40" /> |
+| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,git,linux&perline=9" alt="AWS, Azure, Docker, Kubernetes, GitHub Actions, Git, Linux" height="40" /> |
+| **AI & ML** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv&perline=9" alt="PyTorch, scikit-learn, OpenCV" height="40" /> |
+
+Also comfortable with gRPC, SignalR, REST API design, Cosmos DB, Azure DevOps and IIS.
+
+➡️ More on my [portfolio](https://likith-g-portfolio.vercel.app/).
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6A1A,100:0D0D0D&height=110&section=footer" width="100%" alt="" />
+
+</div>
